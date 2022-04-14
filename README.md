@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Índice 
+# Índice 
 
 🟣[Pokedex](https://github.com/fioreColoca/pokedex): Primeros pasos en PHP. Sistema que permite la búsqueda sobre la misma, ABM de elementos y uso de sesiones. 
 
