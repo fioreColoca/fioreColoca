@@ -3,17 +3,30 @@
 
 ![imagen](https://user-images.githubusercontent.com/54822723/163286675-3a46871f-f9a9-4451-9b7a-77b8dfec1c23.png)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Un poco sobre mí.. 
+Índice 
 
-22 años  
+🟣[Pokedex](https://github.com/fioreColoca/pokedex): Primeros pasos en PHP. Sistema que permite la búsqueda sobre la misma, ABM de elementos y uso de sesiones. 
 
-Soy Técnica en Multimedios (Secundario Juan xxiii) y Técnica en Desarrollo web (UNLaM), actualmente estoy cursando la licenciatura en Gestión de Tecnología (UnLaM). 
+🟣[Transaff](https://github.com/seredonato/TpFinalPrograWeb) :Trabajo Grupal - Página Web realizada con PHP. Sistema que permite a la empresa administrar su flota de vehículos y realizar viajes a todo el país. 
+
+🟣[Organizador de pedidos](https://github.com/sebastiantofano/pw3-organiza-tus-pedidos): Trabajo Grupal - Página Web realizada con C# y .net. 
+
+🟣[RageQuit](https://github.com/fioreColoca/RagequitOficial): Trabajo Grupal - Página Web realizada con Java, Maven e Hibernate. Red social gamer. 
+
+🟣[Proyecto final de carrera-frontEnd](https://github.com/fioreColoca/RagequitOficial): Trabajo Grupal - Página Web realizada con Angular  
+
+🟣[Proyecto final de carrera-backEnd](https://github.com/RoMaIsau/Proyecto-particulares-api): Trabajo Grupal - Página Web realizada con Java 11, Maven Spring Boot. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [fiorecoloca99@gmail.com](mailto:fiorecoloca99@gmail.com)
 
 [Linkedin - Coloca Fiorella](https://www.linkedin.com/in/fiorella-noel-coloca-8830991b8/) 
+
+
+
+
 
 <!--
 **fioreColoca/fioreColoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
