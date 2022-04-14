@@ -15,7 +15,7 @@ Sistema de gestión de negocios para los pedidos de clientes y se podrá cambiar
 🟣[RageQuit](https://github.com/fioreColoca/RagequitOficial): Trabajo Grupal - Página Web realizada con Java, Maven e Hibernate. Red social gamer. 
 
 🟣[EstudiaEnCasa - Proyecto final de carrera - BackEnd](https://github.com/RoMaIsau/Proyecto-particulares-api)
-🟣[EstudiaEnCasa - Proyecto final de carrera- FrontEnd](https://github.com/fioreColoca/RagequitOficial) : Trabajo Grupal - Página Web realizada con Java 11, Maven Spring Boot, Angular11 y Prime NG. Sistema de clases en línea , con resolución de parciales.
+🟣[EstudiaEnCasa - Proyecto final de carrera- FrontEnd](https://github.com/Rocio367/Proyecto-particulares) : Trabajo Grupal - Página Web realizada con Java 11, Maven Spring Boot, Angular11 y Prime NG. Sistema de clases en línea , con resolución de parciales.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
