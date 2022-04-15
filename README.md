@@ -1,7 +1,7 @@
-![imagen](https://user-images.githubusercontent.com/54822723/163502766-14e39a7a-5689-45a8-9a95-603d134602d0.png)
+![imagen](https://user-images.githubusercontent.com/54822723/163512345-769534fc-564c-4253-82fd-e5610170d524.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Índice 
+# Índice GitHub
 
 🟣[Pokedex](https://github.com/fioreColoca/pokedex): Primeros pasos en PHP. Sistema que permite la búsqueda sobre la misma, ABM de elementos y uso de sesiones. 
 
