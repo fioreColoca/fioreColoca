@@ -17,11 +17,11 @@ Sistema de gestión de negocios para los pedidos de clientes y se podrá cambiar
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[fiorecoloca99@gmail.com](https://fiorecoloca.github.io/)
+[fiorecoloca99@gmail.com](mailto:fiorecoloca99@gmail.com)
 
 [Linkedin - Coloca Fiorella](https://www.linkedin.com/in/fiorella-noel-coloca-8830991b8/) 
 
-[Sobre mi...-](https://www.linkedin.com/in/fiorella-noel-coloca-8830991b8/) 
+[Sobre mi..](https://fiorecoloca.github.io/) 
 
 
 
