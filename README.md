@@ -1,8 +1,8 @@
-![imagen](https://user-images.githubusercontent.com/54822723/198174688-a610640c-c3b5-4294-aa95-283659397688.png)
+![imagen](https://user-images.githubusercontent.com/54822723/198175009-bcc03fb9-eaa8-4e61-bd97-bd488faf9390.png)
 
-<div bgcolor="1E1A1B">
 <hr>
-<h3><i>Índice GitHub</i><h3> 
+
+<h3>Índice GitHub</h3>
 
 🔴 [Pokedex](https://github.com/fioreColoca/pokedex): Primeros pasos en PHP. Sistema que permite la búsqueda sobre la misma, ABM de elementos y uso de sesiones. 
 
@@ -26,6 +26,5 @@ Sistema de gestión de negocios para los pedidos de clientes y se podrá cambiar
 [Sobre mi..](https://fiorecoloca.github.io/)
 
 <hr>
-<div>
 
 
