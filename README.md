@@ -1,4 +1,3 @@
-![imagen](https://user-images.githubusercontent.com/54822723/198175093-ac28a04d-1deb-460e-9835-80206d538538.png)
 <hr>
 
 <h3>Índice GitHub</h3>
