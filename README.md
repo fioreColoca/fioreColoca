@@ -47,5 +47,5 @@ A continuación, los entornos y proyectos desarrollados:
 ---
 
 <div align="center">
-   <a href="https://fiorecoloca.github.io/" target="_blank">mas sobre mi..</a> • 
+   <a href="https://fiorecoloca.github.io/" target="_blank">Cv Online</a>  
 </div>
