@@ -47,5 +47,5 @@ A continuación, los entornos y proyectos desarrollados:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fioreColoca&show_icons=true&theme=dark&icon_color=8b5cf6&title_color=8b5cf6&text_color=e0e0e0&bg_color=121212&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="[https://github-readme-stats.vercel.app/api](https://fiorecoloca.github.io/)?username=fioreColoca&show_icons=true&theme=dark&icon_color=8b5cf6&title_color=8b5cf6&text_color=e0e0e0&bg_color=121212&hide_border=true" alt="Mas sobre mi..." width="400" />
 </div>
