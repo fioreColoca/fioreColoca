@@ -14,6 +14,7 @@
 Soy desarrolladora Fullstack con experiencia en el diseño y mantenimiento de aplicaciones web, especializada en Java.
 
 🟣 **Actualmente:** Trabajando en **Unitech** como *Semi Sr Software Fullstack* para proyectos del Poder Judicial.
+
 🟣 **Educación:** * Especialización en Ciencia de Datos — Universidad Nacional de La Matanza *(En curso)*
   * Licenciatura en Gestión de la Tecnología — Universidad Nacional de La Matanza
   * Tecnicatura Universitaria en Desarrollo Web — Universidad Nacional de La Matanza
