@@ -9,9 +9,9 @@
 
 ---
 
-### 🌌 Sobre Mí
+###  Sobre Mí
 
-Desarrolladora Fullstack con experiencia en el diseño y mantenimiento de aplicaciones web y móviles, especializada en ecosistemas Java y arquitecturas robustas. Actualmente expandiendo mis horizontes en el análisis avanzado de datos.
+Soy desarrolladora Fullstack con experiencia en el diseño y mantenimiento de aplicaciones web, especializada en Java.
 
 🟣 **Actualmente:** Trabajando en **Unitech** como *Semi Sr Software Fullstack* para proyectos del Poder Judicial.
 🟣 **Educación:** * Especialización en Ciencia de Datos — Universidad Nacional de La Matanza *(En curso)*
@@ -20,7 +20,7 @@ Desarrolladora Fullstack con experiencia en el diseño y mantenimiento de aplica
 
 ---
 
-### 🛠️ Tecnologías
+###  Tecnologías
 
 * **Lenguajes:** Java, PHP, C#, JavaScript, HTML5, CSS3, JQuery
 * **Frameworks & Herramientas:** Spring Boot, Hibernate, Quarkus, Angular, Oracle ADF, Maven, Scrum
@@ -28,7 +28,7 @@ Desarrolladora Fullstack con experiencia en el diseño y mantenimiento de aplica
 
 ---
 
-### 🔮 Índice GitHub
+###  Índice GitHub
 
 A continuación, los entornos y proyectos desarrollados:
 
